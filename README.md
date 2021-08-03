@@ -1,3 +1,9 @@
+# UX, Accessibility, Design
+
+### [Common UI Components](https://github.com/JessicaOPRD/docs/wiki/Common-UI-Components)
+
+Basic building blocks of UI design, with some of my notes (an ongoing effort).
+
 # Front-end
 
 ## Vue
