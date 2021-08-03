@@ -4,6 +4,10 @@
 
 Basic building blocks of UI design, with some of my notes (an ongoing effort).
 
+🔗 [MDN Accessibility Guide](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+
+🔗 [MDN `tabindex` with accessibility notes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
+
 # Front-end
 
 ## Vue
