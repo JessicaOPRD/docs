@@ -4,7 +4,7 @@
 
 Basic building blocks of UI design, with some of my notes (an ongoing effort).
 
-### [Interactive Map Visualizations](https://github.com/JessicaOPRD/docs/wiki/Map-Visualizations)
+### [Interactive Map Visualizations](https://github.com/JessicaOPRD/docs/wiki/Interactive-Map-Visualizations)
 
 Tools for non-tile, abstract visualizations.
 
