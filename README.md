@@ -4,9 +4,24 @@
 
 Basic building blocks of UI design, with some of my notes (an ongoing effort).
 
+### Helpful links
+
 🔗 [MDN Accessibility Guide](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 🔗 [MDN `tabindex` with accessibility notes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
+
+# Dynamic map visualizations
+
+### Beautiful solutions
+* [D3](https://d3js.org/)
+Handles projections, dynamic GeoJSON, flexible
+
+* [ai2html](http://ai2html.org/)
+Plugin for Adobe Illustrator, static data only, used for New York Times visualizations, may not work on newer versions?
+
+### Helpful links
+
+🔗 [Top 19 geovisualization tools](https://geoawesomeness.com/top-19-online-geovisualization-tools-apis-libraries-beautiful-maps/)
 
 # Front-end
 
