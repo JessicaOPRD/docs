@@ -8,6 +8,8 @@ Basic building blocks of UI design, with some of my notes (an ongoing effort).
 
 Tools for non-tile, abstract visualizations.
 
+### [QR Code Creation](https://github.com/JessicaOPRD/docs/wiki/QR-Code-Creation)
+
 ### Helpful links
 
 🔗 [MDN Accessibility Guide](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
