@@ -29,3 +29,9 @@ Getting started with Vuetify's base components, mixins, and factories. Because r
 
 ### [ColdFusion REST with Axios: Asynchronous Data Passing](https://github.com/JessicaOPRD/docs/wiki/ColdFusion-REST-with-Axios:-Asynchronous-Data-Passing)
 I firmly believed the JavaScript ➡ Server hand-off in a stack is not talked about enough. Especially true when there are documentation issues in the stack itself.
+
+# DevOps
+
+### Helpful links
+
+🔗 [Periodic Table of DevOps](https://digital.ai/periodic-table-of-devops-tools)
