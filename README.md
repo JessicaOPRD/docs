@@ -4,7 +4,7 @@
 
 Basic building blocks of UI design, with some of my notes (an ongoing effort).
 
-### [Interactive Map Visualizations](https://github.com/JessicaOPRD/docs/wiki/Interactive-Map-Visualizations)
+### [Interactive Map Visualizations](https://github.com/JessicaOPRD/docs/wiki/Interactive-Map-Visualizations) 🗺️
 
 Tools for non-tile, abstract visualizations.
 
@@ -18,7 +18,13 @@ Tools for non-tile, abstract visualizations.
 
 # Front-end
 
-## Vue
+## Common Problems
+
+### [Custom grouping components with nesting issues](https://github.com/JessicaOPRD/docs/wiki/Custom-grouping-components-with-nesting-issues)
+
+What happens when you create components around `table`/`tr`/`td` or `row`/`col` structures?
+
+## Re-usability
 
 ### [Using Vuetify Core Functionality](https://github.com/JessicaOPRD/docs/wiki/Using-Vuetify-Core-Functionality)
 Getting started with Vuetify's base components, mixins, and factories. Because really, you don't want to re-invent groupable behavior every single time.
@@ -29,6 +35,10 @@ Getting started with Vuetify's base components, mixins, and factories. Because r
 
 ### [ColdFusion REST with Axios: Asynchronous Data Passing](https://github.com/JessicaOPRD/docs/wiki/ColdFusion-REST-with-Axios:-Asynchronous-Data-Passing)
 I firmly believed the JavaScript ➡ Server hand-off in a stack is not talked about enough. Especially true when there are documentation issues in the stack itself.
+
+### [Responsive Images](https://github.com/JessicaOPRD/docs/wiki/Responsive-Images) 📸
+
+Without a CDN, if you want beautiful imagery and good performance, you need to think through serving the correct assets. It's no small task. I've built a couple of dynamic image generators/APIs and I really enjoy this kind of project. They are also a big nerve-wracking.
 
 # DevOps
 
