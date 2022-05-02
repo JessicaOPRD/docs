@@ -20,7 +20,7 @@ Round-up of tools to create QR codes, which can help ease the work involved to s
 
 A rapid deep-dive on the favicon, a feature I am always surprised to hear so much about from super users.
 
-### [Standardized Icons](https://github.com/JessicaOPRD/docs/wiki/Standardized-Icons) ⤵️
+### [Standardized Wayfinding Symbols](https://github.com/JessicaOPRD/docs/wiki/Standardized-Wayfinding-Symbols) ⤵️
 
 History and round-up of well-known wayfinding symbols used in the United States, including rest rooms, international symbol of accessibility, recreation, and transportation.
 
