@@ -8,11 +8,11 @@ Basic building blocks of UI design, with some of my notes (an ongoing effort).
 
 Tools for abstract visualizations that feel illustrated.
 
-### [Translation](https://github.com/JessicaOPRD/docs/wiki/Translation)
+### [Translation](https://github.com/JessicaOPRD/docs/wiki/Translation) 💬
 
 Brief write-up of state of automated translation for non-profits in 2022, including an argument for/against.
 
-### [QR Code Creation](https://github.com/JessicaOPRD/docs/wiki/QR-Code-Creation)
+### [QR Code Creation](https://github.com/JessicaOPRD/docs/wiki/QR-Code-Creation) 🎲
 
 Round-up of tools to create QR codes, which can help ease the work involved to share a URL in certain contexts (signs, cards, between devices).
 
@@ -28,7 +28,7 @@ Round-up of tools to create QR codes, which can help ease the work involved to s
 
 ### [Custom grouping components with nesting issues](https://github.com/JessicaOPRD/docs/wiki/Custom-grouping-components-with-nesting-issues)
 
-What happens when you create components around `table`/`tr`/`td` or `row`/`col` structures?
+What happens when you create components around `table`/`tr`/`td` or `row`/`col` mark-up structure?
 
 ## Re-usability
 
