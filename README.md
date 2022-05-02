@@ -6,9 +6,15 @@ Basic building blocks of UI design, with some of my notes (an ongoing effort).
 
 ### [Interactive Map Visualizations](https://github.com/JessicaOPRD/docs/wiki/Interactive-Map-Visualizations) 🗺️
 
-Tools for non-tile, abstract visualizations.
+Tools for abstract visualizations that feel illustrated.
+
+### [Translation](https://github.com/JessicaOPRD/docs/wiki/Translation)
+
+Brief write-up of state of automated translation for non-profits in 2022, including an argument for/against.
 
 ### [QR Code Creation](https://github.com/JessicaOPRD/docs/wiki/QR-Code-Creation)
+
+Round-up of tools to create QR codes, which can help ease the work involved to share a URL in certain contexts (signs, cards, between devices).
 
 ### Helpful links
 
