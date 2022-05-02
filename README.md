@@ -34,6 +34,10 @@ History and round-up of well-known wayfinding symbols used in the United States,
 
 ## Common Problems
 
+### [Import and Export Gotchas](https://github.com/JessicaOPRD/docs/wiki/Import-and-Export-Gotchas)
+
+Points of pain through lived experience. 😬
+
 ### [Custom grouping components with nesting issues](https://github.com/JessicaOPRD/docs/wiki/Custom-grouping-components-with-nesting-issues)
 
 What happens when you create components around `table`/`tr`/`td` or `row`/`col` mark-up structure?
