@@ -16,6 +16,10 @@ Brief write-up of state of automated translation for non-profits in 2022, includ
 
 Round-up of tools to create QR codes, which can help ease the work involved to share a URL in certain contexts (signs, cards, between devices).
 
+### [Favicons](https://github.com/JessicaOPRD/docs/wiki/Favicons)
+
+A rapid deep-dive on the favicon, a feature I am always surprised to hear so much about from super users.
+
 ### Helpful links
 
 🔗 [MDN Accessibility Guide](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
