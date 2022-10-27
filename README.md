@@ -61,3 +61,11 @@ Without a CDN, if you want beautiful imagery and good performance, you need to t
 ### Helpful links
 
 🔗 [Periodic Table of DevOps](https://digital.ai/periodic-table-of-devops-tools)
+
+# Database / Entity Relationship Diagramming
+
+So important, and yet so much suffering with tooling in recent years (looking at you SSMS). Fortunately I am seeing support being added to many popular services and tools.
+
+### Helpful links
+
+🔗 [What are your database diagram needs?](https://www.lucidchart.com/pages/database-diagram/database-design) — good and concise summary of database design practices and considerations
