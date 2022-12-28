@@ -1,3 +1,11 @@
+# Programming Basics
+
+### [Programming Basics](https://github.com/JessicaOPRD/docs/wiki/Programming-Basics) 🧱
+List of conventional terms, etc.
+
+### [Algorithms](https://github.com/JessicaOPRD/docs/wiki/Algorithms) 🧩
+Ongoing list of scenarios I often encounter with some solutions.
+
 # UX, Accessibility, Design
 
 ### [Common UI Components](https://github.com/JessicaOPRD/docs/wiki/Common-UI-Components)
