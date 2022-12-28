@@ -8,7 +8,7 @@ Basic building blocks of UI design, with some of my notes (an ongoing effort).
 
 Tools for abstract visualizations that feel illustrated.
 
-### [ArcGIS Online](https://github.com/JessicaOPRD/docs/wiki/ArcGIS-Online)
+### [ArcGIS Online](https://github.com/JessicaOPRD/docs/wiki/ArcGIS-Online) 🗺️
 
 Notes for using Esri's cloud tooling to control style choices to basemaps and layers.
 
