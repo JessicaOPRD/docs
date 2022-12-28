@@ -71,6 +71,9 @@ Without a CDN, if you want beautiful imagery and good performance, you need to t
 ### [Containers](https://github.com/JessicaOPRD/docs/wiki/Containers)
 Conceptual notes from experiments and sourcing container images.
 
+### [Git](https://github.com/JessicaOPRD/docs/wiki/Git)
+Cheat sheet for things I don't always remember how to do with git.
+
 ### Helpful links
 
 🔗 [Periodic Table of DevOps](https://digital.ai/periodic-table-of-devops-tools)
