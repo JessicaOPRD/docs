@@ -52,7 +52,7 @@ Getting started with Vuetify's base components, mixins, and factories. Because r
 ### [ColdFusion REST with Axios: Asynchronous Data Passing](https://github.com/JessicaOPRD/docs/wiki/ColdFusion-REST-with-Axios:-Asynchronous-Data-Passing)
 I firmly believed the JavaScript ➡ Server hand-off in a stack is not talked about enough. Especially true when there are documentation issues in the stack itself.
 
-### [Handling many and slow requests](https://github.com/JessicaOPRD/docs/wiki/Handling-many-and-slow-requests)
+### [Handling many and slow requests](https://github.com/JessicaOPRD/docs/wiki/Handling-many-and-slow-requests) ⏳
 Common methods for managing request cancellation and spinner display.
 
 ### [Responsive Images](https://github.com/JessicaOPRD/docs/wiki/Responsive-Images) 📸
