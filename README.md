@@ -71,6 +71,9 @@ Common methods for managing request cancellation and spinner display.
 ### [Responsive Images](https://github.com/JessicaOPRD/docs/wiki/Responsive-Images) 📸
 Without a CDN, if you want beautiful imagery and good performance, you need to think through serving the correct assets. It's no small task. I've built a couple of dynamic image generators/APIs and I really enjoy this kind of project. They are a bit nerve-wracking.
 
+### [Threads, Locks, and Shared Scope](https://github.com/JessicaOPRD/docs/wiki/Threads,-Locks,-and-Shared-Scope)
+Lived experience managing cases of shared memory use and threading particular scenarios.
+
 # DevOps
 
 ### [Containers](https://github.com/JessicaOPRD/docs/wiki/Containers)
