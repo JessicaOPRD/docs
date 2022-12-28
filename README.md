@@ -6,6 +6,9 @@ List of conventional terms, etc.
 ### [Algorithms](https://github.com/JessicaOPRD/docs/wiki/Algorithms) 🧩
 Ongoing list of scenarios I often encounter with some solutions.
 
+### [Operating System "Equivalents"](https://github.com/JessicaOPRD/docs/wiki/Operating-System-%22Equivalents%22)
+Basic tooling and commands across operating systems. Ongoing as I work between platforms.
+
 ## Design Patterns
 
 ### [Creational Design Patterns](https://github.com/JessicaOPRD/docs/wiki/Creational-Design-Patterns)
