@@ -88,6 +88,9 @@ Conceptual notes from experiments and sourcing container images.
 ### [Git](https://github.com/JessicaOPRD/docs/wiki/Git)
 Cheat sheet for things I don't always remember how to do with git.
 
+### [Mail Testing](https://github.com/JessicaOPRD/docs/wiki/Mail-Testing)
+Thinking through options for testing mail locally or through a safe mail server setup.
+
 ### Helpful links
 
 🔗 [Periodic Table of DevOps](https://digital.ai/periodic-table-of-devops-tools)
