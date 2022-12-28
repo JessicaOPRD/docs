@@ -58,6 +58,9 @@ Points of pain through lived experience. 😬
 ### [Custom grouping components with nesting issues](https://github.com/JessicaOPRD/docs/wiki/Custom-grouping-components-with-nesting-issues)
 What happens when you create components around `table`/`tr`/`td` or `row`/`col` mark-up structure?
 
+### [Things That Conflict Me](https://github.com/JessicaOPRD/docs/wiki/Things-That-Conflict-Me)
+The moments that give me pause and signal I may need to re-evaluate when/where I utilize a particular technique.
+
 ## Re-usability
 
 ### [Using Vuetify Core Functionality](https://github.com/JessicaOPRD/docs/wiki/Using-Vuetify-Core-Functionality)
