@@ -4,14 +4,6 @@
 
 Basic building blocks of UI design, with some of my notes (an ongoing effort).
 
-### [Interactive Map Visualizations](https://github.com/JessicaOPRD/docs/wiki/Interactive-Map-Visualizations) 🗺️
-
-Tools for abstract visualizations that feel illustrated.
-
-### [ArcGIS Online](https://github.com/JessicaOPRD/docs/wiki/ArcGIS-Online) 🗺️
-
-Notes for using Esri's cloud tooling to control style choices of basemaps and layers.
-
 ### [Translation](https://github.com/JessicaOPRD/docs/wiki/Translation) 💬
 
 Brief write-up of state of automated translation for non-profits in 2022, including an argument for/against.
@@ -37,6 +29,16 @@ Part art, part science. Years of experience have led me here.
 🔗 [MDN Accessibility Guide](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 🔗 [MDN `tabindex` with accessibility notes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
+
+# Maps
+
+### [Interactive Map Visualizations](https://github.com/JessicaOPRD/docs/wiki/Interactive-Map-Visualizations) 🗺️
+
+Tools for abstract visualizations that feel illustrated.
+
+### [ArcGIS Online](https://github.com/JessicaOPRD/docs/wiki/ArcGIS-Online) 🗺️
+
+Notes for using Esri's cloud tooling to control style choices of basemaps and layers.
 
 # Front-end
 
