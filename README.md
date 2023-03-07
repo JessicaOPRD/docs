@@ -31,6 +31,10 @@ A rapid deep-dive on the favicon, a feature I am always surprised to hear so muc
 ### [Standardized Wayfinding Symbols](https://github.com/JessicaOPRD/docs/wiki/Standardized-Wayfinding-Symbols) ⤵️
 History and round-up of well-known wayfinding symbols used in the United States, including rest rooms, international symbol of accessibility, recreation, and transportation.
 
+### [Screen Capturing](https://github.com/JessicaOPRD/docs/wiki/Screen-Capturing)
+
+A critical but often undiscussed workflow topic.
+
 ### [Resizing Raster "Logo" Artwork](https://github.com/JessicaOPRD/docs/wiki/Resizing-Raster-%22Logo%22-Artwork) 🖼
 Part art, part science. Years of experience have led me here.
 
